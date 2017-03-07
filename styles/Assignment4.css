@@ -4,6 +4,6 @@ section.section2 {background-color: #ffb3ec; visibility: hidden; position: relat
 
 footer {text-align: left; font-style: italic;}
 
-#hudson {padding: 5pt;  height: 75%; width: 75%; overflow: scroll;}
+#hudson {padding: 5pt;  height: 75%; width: 75%;}
 
-#superman {padding: 5pt; height: 50%; width: 50%; overflow: scroll;}
+#superman {padding: 5pt; height: 50%; width: 50%;}
