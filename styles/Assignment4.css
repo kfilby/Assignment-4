@@ -1,0 +1,9 @@
+section.section1 {background-color: #99ff99; visibility: hidden; position: absolute; height: 300px; width: 600px; overflow: scroll}
+
+section.section2 {background-color: #ffb3ec; visibility: hidden; position: relative; height: 300px; width: 600px; overflow: scroll;}
+
+footer {text-align: left; font-style: italic;}
+
+#hudson {padding: 5pt;  height: 75%; width: 75%; overflow: scroll;}
+
+#superman {padding: 5pt; height: 50%; width: 50%; overflow: scroll;}
