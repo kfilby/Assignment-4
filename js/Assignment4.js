@@ -10,8 +10,8 @@ function MenuChoice(){
         }
         
         else     {
-        document.getElementById("section1").style.visibility = "hidden";
-        document.getElementById("section2").style.visibility = "hidden";
+            document.getElementById("section1").style.visibility = "hidden";
+            document.getElementById("section2").style.visibility = "hidden";
         
         }
 }
