@@ -1,4 +1,4 @@
-section.section1 {background-color: #99ff99; visibility: visible; position: absolute; height: 300px; width: 600px; overflow: scroll}
+section.section1 {background-color: #99ff99; visibility: hidden; position: absolute; height: 300px; width: 600px; overflow: scroll}
 
 section.section2 {background-color: #ffb3ec; visibility: hidden; position: relative; height: 300px; width: 600px; overflow: scroll;}
 
