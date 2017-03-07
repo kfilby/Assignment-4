@@ -7,7 +7,7 @@
         
         <name>Assignment 4</name>
         
-        <description>        Mobile App Demonstration     </description>
+        <description>       Assignment 4     </description>
         <author>        Kyle Filby     </author>
         <preference name="phonegap-version" value="cli-6.3.0" />
         <plugin name="cordova-plugin-whitelist" source="npm" />
